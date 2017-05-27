@@ -31,7 +31,7 @@
 			"@type": "Painting"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/Screen%20Shot%202015-12-23%20at%2011.20.10%20AM.png",
+			"image": "https://raw.githubusercontent.com/vargasj/data/master/portfolio/images/Screen%20Shot%202015-12-23%20at%2011.20.10%20AM.png",
 			"name": "PWNED"
 		}
 	]
