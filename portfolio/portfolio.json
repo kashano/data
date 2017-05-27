@@ -35,12 +35,12 @@
 			"name": "PWNAGE"
 		},
 		{
-			"image": "https://cdn.rawgit.com/vargasj/data/04d50d83c1ba9be873d7c28bdf94e056636052d0/portfolio/images/Screen%20Shot%202015-12-23%20at%2011.20.10%20AM.png",
-			"name": "PWNED!"
-		},
-		{
 			"image": "https://cdn.rawgit.com/vargasj/data/bae350ce0557fe999cbbfd2f7164234095a51e61/portfolio/images/Screen%20Shot%202015-12-23%20at%2011.19.56%20AM.png",
 			"name": "PWN!"
+		},
+		{
+			"image": "https://cdn.rawgit.com/vargasj/data/04d50d83c1ba9be873d7c28bdf94e056636052d0/portfolio/images/Screen%20Shot%202015-12-23%20at%2011.20.10%20AM.png",
+			"name": "PWNED!"
 		}
 	]
 }
